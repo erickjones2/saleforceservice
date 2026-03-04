@@ -37,4 +37,10 @@
         <label>Waiting on Customer</label>
         <closed>false</closed>
     </standardValue>
+    <standardValue>
+        <fullName>Declined</fullName>
+        <default>false</default>
+        <label>Declined</label>
+        <closed>false</closed>
+    </standardValue>
 </StandardValueSet>
