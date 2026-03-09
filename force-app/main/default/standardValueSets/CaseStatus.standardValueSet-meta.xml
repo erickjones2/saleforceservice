@@ -38,9 +38,9 @@
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Declined4</fullName>
+        <fullName>Declined5</fullName>
         <default>false</default>
-        <label>Declined4</label>
+        <label>Declined5</label>
         <closed>false</closed>
     </standardValue>
 </StandardValueSet>
